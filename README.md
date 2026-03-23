@@ -46,6 +46,10 @@ Um exemplo de marcação de voo ao servidor com o texto:
 
 Uma string separada por ponto e vírgula, onde a comunicação é de marcação "M" do código de voo "A1" e assento "1".
 
+## Diagrama de classes
+
+![Diagrama de classes do cliente.](Figura1_s.jpg)
+
 ## Arquivos
 
 - pom.xml - Arquivo de configuração da ferramenta de automação Maven.
